@@ -2,7 +2,7 @@
 // E&TC-A2
 // 24070123031
 
-#include <iospace>
+#include <iostream>
 using namespace std;
 int main() {
     char str[] = "madam";
